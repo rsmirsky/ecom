@@ -34,7 +34,8 @@
     <link rel="stylesheet" href="assets/css/main.css">
 
     <?php
-
+    //require functions.php file
+    require('functions.php');
     ?>
 
 
@@ -79,7 +80,7 @@
                                 <div class="user-info user-set-role">
                                     <a class="user-set-role__button" href="#" data-toggle="dropdown"
                                        aria-haspopup="true"> <img src="assets/img/icon/flag/icon_usa.png" alt="">USA <i
-                                            class="fal fa-chevron-down"></i></a>
+                                                class="fal fa-chevron-down"></i></a>
                                     <ul class="expand-dropdown-menu dropdown-menu">
                                         <li><a href="#"><img src="assets/img/icon/flag/icon_usa.png" alt="">English</a>
                                         </li>
@@ -613,7 +614,7 @@
                             </div> <!-- End Header Add Cart Box -->
 
                             <a href="#offcanvas-mobile-menu" class="offcanvas-toggle m-l-20"><i
-                                    class="icon-menu"></i></a>
+                                        class="icon-menu"></i></a>
 
                         </div>
                     </div> <!-- End Header Mobile Top area -->
@@ -815,7 +816,7 @@
                             <div class="header__search-input header__search-input--mobile">
                                 <input type="search" placeholder="Enter your search">
                                 <button class="btn btn--submit btn--blue btn--uppercase btn--weight" type="submit"><i
-                                        class="fal fa-search"></i></button>
+                                            class="fal fa-search"></i></button>
                             </div>
                         </form>
                     </div> <!-- End Header Mobile Middle area -->

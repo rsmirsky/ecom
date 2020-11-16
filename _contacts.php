@@ -1,4 +1,4 @@
-!-- ::::::  Start  Footer Section  ::::::  -->
+
 <footer class="footer">
     <div class="footer__top gray-bg p-tb-100">
         <div class="container">

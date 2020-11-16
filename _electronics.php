@@ -1,6 +1,4 @@
-<!-- ::::::  End  Header Section  ::::::  -->
 
-<!-- ::::::  Start  Product Style - Default Section  ::::::  -->
 <div class="product product--1 swiper-outside-arrow-hover">
     <div class="container">
         <div class="row">
